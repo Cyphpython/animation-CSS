@@ -1,0 +1,1 @@
+Animation : triple dot animated
