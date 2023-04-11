@@ -1,0 +1,14 @@
+@keyframes flash {
+    0% {
+        color: blue;
+        text-shadow: 0 0 7px red;
+    }
+    90% {
+        color: red;
+        text-shadow: none;
+    }
+    100% {
+        color: green;
+        text-shadow: 0 0 7px red;
+    }
+}
